@@ -10,6 +10,10 @@ Hiring insights
 Workforce demographics
 Department-level KPIs
 
+## 🔗 Live Dashboard
+
+👉 **[View Live Dashboard on Power BI Service](#)** ← *(https://app.powerbi.com/view?r=eyJrIjoiZDY5MGNkMjMtZDFkMi00NTg4LTkyMjgtZjIxNDU1N2IwMWU0IiwidCI6IjMyMjg3MjIxLWZjNTgtNDM5YS04MzMwLTY5YWFhNmJlYmIxMSIsImMiOjl9)*
+
 
 # 1 Overview report
 
