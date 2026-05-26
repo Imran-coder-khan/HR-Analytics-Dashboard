@@ -1,0 +1,201 @@
+Employee_ID,Name,Age,Gender,Education,Department,Job_Level,Location,Hire_Date,Exit_Date,Employment_Status,Annual_Salary_EUR,Years_Experience,Recruitment_Source,Performance_Rating,Absent_Days,Training_Hours,Job_Satisfaction_Score
+EMP0001,Employee_1,36,Male,Bachelor,Operations,Junior,Berlin,2019-07-18,,Active,35300,3,Indeed,Excellent,17,16,3.4
+EMP0002,Employee_2,48,Male,Master,Sales,Manager,Frankfurt,2021-02-23,,Active,100100,8,Referral,Below Average,18,40,4.2
+EMP0003,Employee_3,28,Female,Bachelor,Marketing,Mid,Frankfurt,2022-04-13,,Active,48200,1,Recruiter,Below Average,3,50,4.4
+EMP0004,Employee_4,45,Female,Bachelor,Engineering,Lead,Munich,2019-08-24,2023-08-09,Terminated,76600,19,LinkedIn,Good,2,10,3.6
+EMP0005,Employee_5,32,Male,Master,Finance,Senior,Stuttgart,2022-09-05,,Active,69100,6,Indeed,Average,6,39,3.8
+EMP0006,Employee_6,36,Female,Diploma,Sales,Lead,Hamburg,2023-03-11,,Terminated,82600,11,LinkedIn,Average,1,34,4.3
+EMP0007,Employee_7,53,Female,Diploma,Sales,Manager,Stuttgart,2019-10-07,,Active,106900,13,Company Website,Below Average,4,38,1.6
+EMP0008,Employee_8,27,Female,Bachelor,Marketing,Mid,Frankfurt,2018-10-11,2022-01-13,Resigned,60000,1,Company Website,Excellent,4,25,4.2
+EMP0009,Employee_9,29,Female,Bachelor,HR,Lead,Hamburg,2023-06-12,2024-01-01,Resigned,85600,5,Recruiter,Average,3,42,2.7
+EMP0010,Employee_10,54,Male,PhD,Customer Support,Mid,Frankfurt,2018-08-06,2020-10-05,Terminated,52600,20,LinkedIn,Good,4,52,4.1
+EMP0011,Employee_11,37,Female,Bachelor,Engineering,Senior,Stuttgart,2022-08-31,,Active,77600,2,Indeed,Good,18,15,1.3
+EMP0012,Employee_12,55,Male,PhD,Sales,Lead,Frankfurt,2018-12-05,,Active,93900,20,Referral,Below Average,6,74,4.0
+EMP0013,Employee_13,26,Male,Bachelor,Finance,Manager,Berlin,2019-05-23,,Active,96300,3,LinkedIn,Excellent,18,75,1.9
+EMP0014,Employee_14,26,Male,Diploma,Sales,Junior,Munich,2022-10-27,,Active,44100,5,Company Website,Good,8,67,1.9
+EMP0015,Employee_15,44,Male,Bachelor,Customer Support,Lead,Frankfurt,2018-07-18,2021-06-14,Terminated,78800,14,Referral,Below Average,14,11,3.7
+EMP0016,Employee_16,30,Male,Diploma,Customer Support,Junior,Stuttgart,2019-01-25,2022-01-27,Resigned,37500,7,LinkedIn,Good,8,64,2.0
+EMP0017,Employee_17,37,Female,Bachelor,Engineering,Manager,Munich,2023-06-08,,Active,105900,6,Company Website,Below Average,15,66,1.9
+EMP0018,Employee_18,40,Male,Bachelor,Engineering,Lead,Hamburg,2022-05-25,,Active,80300,14,LinkedIn,Below Average,4,29,2.2
+EMP0019,Employee_19,25,Male,Diploma,Engineering,Manager,Berlin,2023-02-26,2024-07-12,Resigned,96900,1,Recruiter,Good,2,13,3.7
+EMP0020,Employee_20,48,Female,Master,Sales,Manager,Hamburg,2021-06-22,,Active,99900,19,Company Website,Average,8,31,3.7
+EMP0021,Employee_21,22,Female,Master,Sales,Senior,Hamburg,2023-03-18,,Active,69100,1,LinkedIn,Excellent,2,73,1.9
+EMP0022,Employee_22,55,Male,Master,Sales,Senior,Hamburg,2020-06-16,2022-08-24,Resigned,65700,1,Referral,Average,3,22,2.1
+EMP0023,Employee_23,38,Female,PhD,HR,Mid,Berlin,2019-02-21,2023-03-10,Terminated,55800,17,LinkedIn,Below Average,8,11,1.4
+EMP0024,Employee_24,50,Male,Bachelor,Marketing,Mid,Hamburg,2019-06-21,,Active,54600,18,Recruiter,Below Average,17,6,1.4
+EMP0025,Employee_25,45,Female,Diploma,HR,Mid,Stuttgart,2018-03-27,,Active,51400,2,Indeed,Average,6,36,3.7
+EMP0026,Employee_26,48,Male,PhD,Sales,Mid,Munich,2022-07-19,,Active,59600,1,LinkedIn,Good,10,57,4.2
+EMP0027,Employee_27,51,Male,Diploma,Finance,Junior,Hamburg,2019-04-01,,Active,43600,12,Referral,Average,7,33,1.1
+EMP0028,Employee_28,54,Female,Master,Customer Support,Junior,Stuttgart,2019-07-26,,Active,44700,13,Referral,Average,0,19,4.5
+EMP0029,Employee_29,49,Male,Diploma,Engineering,Junior,Berlin,2019-12-09,2022-03-10,Terminated,41000,20,Recruiter,Excellent,12,78,1.8
+EMP0030,Employee_30,45,Male,PhD,Customer Support,Manager,Stuttgart,2023-04-10,2024-11-13,Terminated,102200,14,Referral,Excellent,10,45,3.7
+EMP0031,Employee_31,30,Female,Diploma,Operations,Lead,Stuttgart,2021-11-28,,Active,81500,4,LinkedIn,Below Average,12,27,3.5
+EMP0032,Employee_32,42,Male,Bachelor,Marketing,Senior,Hamburg,2022-05-29,2026-04-20,Resigned,64200,15,Recruiter,Below Average,14,32,3.0
+EMP0033,Employee_33,41,Female,Bachelor,Operations,Manager,Frankfurt,2022-08-04,,Active,93400,8,Company Website,Good,4,8,1.2
+EMP0034,Employee_34,53,Male,Diploma,Operations,Manager,Munich,2021-11-27,,Active,89900,13,Indeed,Good,4,5,4.6
+EMP0035,Employee_35,29,Female,Diploma,Customer Support,Manager,Stuttgart,2021-02-15,,Active,96600,8,Recruiter,Good,14,72,5.0
+EMP0036,Employee_36,50,Female,Master,Finance,Manager,Hamburg,2018-11-22,2022-01-17,Terminated,96100,9,Company Website,Good,20,40,4.1
+EMP0037,Employee_37,27,Male,Bachelor,Engineering,Senior,Frankfurt,2019-11-19,,Active,64700,2,Company Website,Good,7,54,3.8
+EMP0038,Employee_38,48,Female,PhD,Marketing,Manager,Frankfurt,2018-05-08,,Active,96600,13,Company Website,Excellent,18,53,2.9
+EMP0039,Employee_39,53,Female,Diploma,HR,Manager,Munich,2023-01-13,,Active,105000,8,Company Website,Average,13,67,1.1
+EMP0040,Employee_40,23,Female,Diploma,Sales,Manager,Hamburg,2023-02-01,,Active,98400,1,Indeed,Below Average,4,64,1.7
+EMP0041,Employee_41,39,Male,PhD,Finance,Senior,Munich,2022-12-07,,Active,66800,14,LinkedIn,Average,2,65,1.1
+EMP0042,Employee_42,34,Male,Master,Customer Support,Junior,Frankfurt,2023-04-29,,Active,42500,1,Referral,Good,7,21,2.9
+EMP0043,Employee_43,32,Female,Diploma,Customer Support,Senior,Munich,2021-05-28,2022-07-16,Terminated,63400,5,LinkedIn,Excellent,18,8,4.7
+EMP0044,Employee_44,29,Male,PhD,HR,Mid,Berlin,2022-05-02,,Active,46500,1,Company Website,Average,17,59,3.6
+EMP0045,Employee_45,51,Female,Diploma,Customer Support,Lead,Frankfurt,2023-05-22,,Active,77100,5,Company Website,Below Average,5,71,4.9
+EMP0046,Employee_46,27,Female,PhD,Customer Support,Manager,Berlin,2022-10-11,,Active,91700,3,Company Website,Below Average,7,64,3.3
+EMP0047,Employee_47,38,Male,Bachelor,Customer Support,Senior,Munich,2019-03-11,,Active,63600,11,Company Website,Average,19,40,3.2
+EMP0048,Employee_48,53,Male,PhD,Finance,Manager,Stuttgart,2021-11-15,,Active,104000,15,Referral,Excellent,2,42,1.9
+EMP0049,Employee_49,43,Male,Master,Finance,Manager,Hamburg,2020-05-21,2023-12-19,Terminated,98300,12,LinkedIn,Below Average,8,44,2.0
+EMP0050,Employee_50,34,Female,Bachelor,Operations,Manager,Munich,2021-11-14,,Active,108800,4,Referral,Below Average,8,80,4.9
+EMP0051,Employee_51,30,Male,Diploma,Sales,Senior,Berlin,2018-01-29,2021-07-25,Terminated,63600,5,LinkedIn,Excellent,1,75,2.2
+EMP0052,Employee_52,33,Female,Diploma,HR,Senior,Berlin,2020-06-21,,Active,69400,1,Recruiter,Average,15,19,4.3
+EMP0053,Employee_53,27,Male,Diploma,Operations,Junior,Frankfurt,2022-07-20,2024-09-29,Resigned,36500,2,Company Website,Excellent,17,58,3.4
+EMP0054,Employee_54,25,Male,Master,Marketing,Manager,Munich,2019-09-18,2023-09-08,Resigned,109800,1,Indeed,Good,20,32,2.1
+EMP0055,Employee_55,52,Female,Bachelor,HR,Junior,Munich,2020-04-16,,Active,36600,10,Referral,Excellent,7,41,3.8
+EMP0056,Employee_56,49,Male,Bachelor,Customer Support,Manager,Berlin,2023-03-28,,Active,101500,4,Indeed,Good,20,24,4.6
+EMP0057,Employee_57,50,Female,Diploma,Customer Support,Senior,Berlin,2022-08-16,2024-09-25,Resigned,71900,4,Recruiter,Below Average,9,56,4.8
+EMP0058,Employee_58,23,Female,Bachelor,Engineering,Lead,Munich,2021-05-21,,Active,89700,1,Company Website,Good,18,80,4.8
+EMP0059,Employee_59,53,Male,Master,HR,Lead,Hamburg,2019-01-07,2021-12-14,Resigned,93300,3,Company Website,Below Average,11,57,2.3
+EMP0060,Employee_60,24,Female,Bachelor,Operations,Lead,Stuttgart,2023-04-20,,Active,80800,2,Company Website,Excellent,10,37,2.3
+EMP0061,Employee_61,50,Female,Diploma,Finance,Junior,Frankfurt,2020-01-11,2023-04-25,Resigned,36900,2,LinkedIn,Good,8,75,1.5
+EMP0062,Employee_62,41,Male,Diploma,Engineering,Manager,Berlin,2021-12-24,,Active,105000,18,Indeed,Excellent,17,57,1.4
+EMP0063,Employee_63,52,Male,Master,Finance,Senior,Berlin,2019-07-14,,Active,70200,16,Referral,Good,14,75,1.6
+EMP0064,Employee_64,22,Female,Master,Customer Support,Lead,Frankfurt,2022-06-02,2024-05-29,Resigned,81800,1,Recruiter,Average,18,79,5.0
+EMP0065,Employee_65,51,Female,Bachelor,Finance,Senior,Hamburg,2022-04-12,2024-11-19,Resigned,66600,11,Company Website,Good,7,78,2.5
+EMP0066,Employee_66,53,Male,Diploma,Operations,Lead,Berlin,2021-09-21,2023-01-25,Terminated,82700,2,Recruiter,Good,16,80,2.3
+EMP0067,Employee_67,26,Female,Diploma,Finance,Junior,Hamburg,2020-04-19,2021-08-28,Terminated,42200,4,Company Website,Average,10,55,3.6
+EMP0068,Employee_68,40,Male,Diploma,Customer Support,Manager,Munich,2018-05-21,,Active,85900,8,Referral,Excellent,13,17,4.0
+EMP0069,Employee_69,44,Male,Master,Engineering,Junior,Munich,2018-04-25,,Active,38200,12,LinkedIn,Below Average,4,36,3.1
+EMP0070,Employee_70,31,Male,Diploma,HR,Lead,Hamburg,2019-05-09,,Active,87400,4,Recruiter,Below Average,20,37,2.8
+EMP0071,Employee_71,49,Female,Bachelor,Sales,Junior,Munich,2019-12-09,2022-02-08,Resigned,39400,9,Company Website,Below Average,9,30,5.0
+EMP0072,Employee_72,23,Male,Diploma,HR,Senior,Hamburg,2021-12-03,,Active,71500,2,Indeed,Average,0,77,4.5
+EMP0073,Employee_73,30,Female,Master,HR,Senior,Berlin,2019-01-25,2020-12-18,Resigned,64400,2,Referral,Excellent,9,61,1.1
+EMP0074,Employee_74,55,Female,PhD,Marketing,Lead,Hamburg,2018-09-28,2021-04-14,Resigned,78500,17,LinkedIn,Average,5,37,4.7
+EMP0075,Employee_75,47,Male,Diploma,Finance,Junior,Hamburg,2023-06-03,,Active,36400,18,Referral,Average,2,55,1.1
+EMP0076,Employee_76,28,Female,Master,HR,Lead,Berlin,2023-04-10,,Active,91400,6,Company Website,Good,15,8,3.5
+EMP0077,Employee_77,24,Male,Diploma,Operations,Senior,Frankfurt,2018-08-27,,Active,73000,1,Referral,Average,15,19,1.4
+EMP0078,Employee_78,48,Female,Bachelor,Operations,Manager,Hamburg,2022-03-01,2023-07-10,Terminated,95500,4,Indeed,Below Average,19,57,4.8
+EMP0079,Employee_79,28,Female,Master,Finance,Lead,Berlin,2022-10-18,,Active,94000,6,Company Website,Average,17,50,1.2
+EMP0080,Employee_80,25,Male,Master,Engineering,Mid,Munich,2021-05-07,,Active,54600,3,Referral,Good,4,77,1.8
+EMP0081,Employee_81,39,Male,Bachelor,Customer Support,Mid,Munich,2021-05-05,,Active,56800,5,LinkedIn,Good,17,37,4.2
+EMP0082,Employee_82,38,Male,Diploma,Marketing,Mid,Frankfurt,2018-02-02,,Active,53800,2,Referral,Good,13,72,1.5
+EMP0083,Employee_83,24,Female,Diploma,HR,Manager,Frankfurt,2020-10-28,,Active,87700,3,LinkedIn,Average,14,8,1.2
+EMP0084,Employee_84,31,Female,Diploma,Finance,Lead,Stuttgart,2018-06-15,,Active,76500,2,Recruiter,Good,8,79,3.2
+EMP0085,Employee_85,29,Female,Diploma,Marketing,Lead,Frankfurt,2020-05-31,,Active,85100,4,LinkedIn,Below Average,14,34,2.7
+EMP0086,Employee_86,31,Male,PhD,Marketing,Lead,Munich,2019-06-07,,Active,81300,8,Recruiter,Excellent,2,15,1.4
+EMP0087,Employee_87,29,Female,PhD,Engineering,Manager,Berlin,2021-02-24,,Active,108900,7,Recruiter,Average,13,11,4.9
+EMP0088,Employee_88,28,Female,Bachelor,HR,Mid,Stuttgart,2020-09-14,,Active,47300,3,Referral,Average,3,40,3.3
+EMP0089,Employee_89,43,Female,Bachelor,Engineering,Mid,Munich,2022-04-11,,Active,49100,12,LinkedIn,Excellent,5,23,3.3
+EMP0090,Employee_90,43,Male,Bachelor,Engineering,Manager,Munich,2020-05-09,,Active,90400,6,Indeed,Average,9,46,4.1
+EMP0091,Employee_91,50,Male,Bachelor,Customer Support,Manager,Hamburg,2018-06-17,,Active,86200,14,Company Website,Below Average,19,61,2.7
+EMP0092,Employee_92,55,Male,Bachelor,Engineering,Senior,Munich,2021-04-29,,Active,73600,10,Referral,Excellent,7,55,4.9
+EMP0093,Employee_93,29,Male,PhD,Sales,Mid,Berlin,2019-08-16,,Active,56500,1,Company Website,Below Average,13,27,1.5
+EMP0094,Employee_94,42,Female,PhD,Customer Support,Junior,Berlin,2020-07-30,,Active,39400,19,Company Website,Below Average,18,56,3.8
+EMP0095,Employee_95,45,Female,Bachelor,Engineering,Senior,Frankfurt,2023-04-25,,Resigned,63400,3,Referral,Below Average,3,36,2.7
+EMP0096,Employee_96,26,Female,PhD,Operations,Senior,Munich,2022-05-15,,Active,64400,5,Indeed,Excellent,16,70,1.8
+EMP0097,Employee_97,26,Female,PhD,Engineering,Mid,Hamburg,2018-12-22,2020-04-28,Resigned,48800,2,Indeed,Below Average,14,77,4.0
+EMP0098,Employee_98,39,Female,Bachelor,Finance,Junior,Berlin,2021-07-17,,Active,39700,2,Referral,Average,16,14,2.2
+EMP0099,Employee_99,54,Male,Diploma,Customer Support,Senior,Stuttgart,2022-11-05,,Active,61500,13,Indeed,Below Average,18,75,4.8
+EMP0100,Employee_100,50,Male,Master,Marketing,Manager,Frankfurt,2018-11-05,,Active,96900,4,Company Website,Average,2,69,3.6
+EMP0101,Employee_101,40,Female,Bachelor,HR,Manager,Hamburg,2020-01-16,,Active,100200,13,LinkedIn,Below Average,10,11,4.2
+EMP0102,Employee_102,31,Female,Diploma,HR,Lead,Munich,2022-01-22,2025-12-06,Terminated,80700,6,Recruiter,Excellent,18,23,4.7
+EMP0103,Employee_103,30,Male,PhD,Operations,Junior,Hamburg,2020-02-11,2022-06-12,Terminated,38100,9,Indeed,Excellent,20,59,3.0
+EMP0104,Employee_104,36,Male,Bachelor,Sales,Senior,Hamburg,2020-09-22,,Active,79000,3,Recruiter,Good,2,42,4.4
+EMP0105,Employee_105,32,Male,Diploma,Sales,Manager,Stuttgart,2018-11-29,,Active,94400,8,Referral,Excellent,13,51,3.7
+EMP0106,Employee_106,52,Female,Diploma,Customer Support,Lead,Stuttgart,2019-05-05,,Active,79700,7,Recruiter,Average,18,61,2.8
+EMP0107,Employee_107,38,Male,PhD,Finance,Mid,Berlin,2022-06-29,2023-10-05,Resigned,57300,2,Indeed,Below Average,11,75,4.7
+EMP0108,Employee_108,27,Female,PhD,Marketing,Lead,Munich,2018-10-29,,Active,93100,2,Company Website,Below Average,11,8,2.7
+EMP0109,Employee_109,43,Female,Master,Engineering,Senior,Frankfurt,2019-10-15,,Active,64500,5,Company Website,Good,1,41,4.7
+EMP0110,Employee_110,35,Female,Master,HR,Junior,Hamburg,2018-02-08,,Active,44100,14,LinkedIn,Good,17,72,2.7
+EMP0111,Employee_111,26,Male,Master,Engineering,Mid,Hamburg,2022-06-14,2025-07-04,Resigned,51300,1,Company Website,Below Average,19,73,1.1
+EMP0112,Employee_112,33,Male,Diploma,Engineering,Manager,Frankfurt,2021-03-14,,Active,93800,11,LinkedIn,Excellent,16,51,1.3
+EMP0113,Employee_113,44,Female,Master,Operations,Lead,Berlin,2019-06-04,2020-01-03,Terminated,94600,3,Referral,Average,7,18,4.1
+EMP0114,Employee_114,52,Male,Bachelor,HR,Senior,Munich,2018-12-25,2022-01-29,Terminated,76300,6,LinkedIn,Good,2,63,1.1
+EMP0115,Employee_115,38,Male,PhD,Marketing,Senior,Hamburg,2022-07-28,2025-09-19,Resigned,70300,2,LinkedIn,Good,9,50,4.4
+EMP0116,Employee_116,46,Female,Bachelor,Customer Support,Senior,Frankfurt,2020-03-30,2023-03-15,Terminated,68700,11,LinkedIn,Good,15,68,2.5
+EMP0117,Employee_117,42,Female,Master,Finance,Manager,Frankfurt,2019-01-05,2021-02-24,Resigned,109900,4,Referral,Excellent,10,42,2.2
+EMP0118,Employee_118,49,Male,Bachelor,Finance,Junior,Munich,2023-02-10,,Active,42300,9,Recruiter,Excellent,2,56,2.5
+EMP0119,Employee_119,45,Female,PhD,Operations,Lead,Hamburg,2018-05-18,,Active,75700,12,Company Website,Below Average,18,9,3.4
+EMP0120,Employee_120,47,Male,Diploma,Customer Support,Junior,Stuttgart,2020-12-20,,Active,40700,11,Company Website,Average,7,19,1.1
+EMP0121,Employee_121,35,Male,Diploma,HR,Junior,Munich,2019-06-18,2022-06-15,Terminated,37600,10,Company Website,Average,15,30,1.5
+EMP0122,Employee_122,40,Male,Bachelor,Engineering,Senior,Munich,2021-12-24,,Active,73400,10,Indeed,Good,20,27,4.2
+EMP0123,Employee_123,51,Female,Diploma,Sales,Lead,Stuttgart,2021-02-08,2023-09-01,Resigned,75500,18,Company Website,Good,19,16,1.3
+EMP0124,Employee_124,42,Male,Master,Customer Support,Lead,Frankfurt,2018-06-01,,Active,91500,3,Recruiter,Below Average,14,71,2.4
+EMP0125,Employee_125,41,Female,Bachelor,Customer Support,Junior,Hamburg,2020-11-27,,Active,43300,6,Indeed,Good,10,33,2.4
+EMP0126,Employee_126,27,Female,Bachelor,Operations,Manager,Berlin,2021-07-04,,Active,91900,5,LinkedIn,Good,18,79,1.6
+EMP0127,Employee_127,23,Female,PhD,Engineering,Manager,Frankfurt,2019-03-08,2022-01-04,Resigned,91600,2,LinkedIn,Average,20,43,2.9
+EMP0128,Employee_128,51,Female,PhD,Operations,Junior,Frankfurt,2020-05-01,,Active,36600,7,Indeed,Average,19,23,2.3
+EMP0129,Employee_129,37,Male,Bachelor,Customer Support,Senior,Hamburg,2018-08-06,,Active,70300,15,Company Website,Excellent,8,62,2.0
+EMP0130,Employee_130,42,Female,Diploma,Customer Support,Manager,Hamburg,2023-05-26,,Active,95500,19,Company Website,Average,6,25,3.0
+EMP0131,Employee_131,37,Female,PhD,Engineering,Junior,Stuttgart,2020-11-01,,Active,44500,7,LinkedIn,Average,1,11,2.1
+EMP0132,Employee_132,45,Male,PhD,Customer Support,Junior,Stuttgart,2022-12-13,,Active,39300,13,Referral,Average,1,56,1.2
+EMP0133,Employee_133,29,Female,PhD,Engineering,Lead,Munich,2022-04-15,2024-05-06,Resigned,85100,3,Indeed,Excellent,12,52,4.2
+EMP0134,Employee_134,24,Male,PhD,HR,Manager,Stuttgart,2018-03-24,,Active,95000,1,Referral,Average,15,71,2.8
+EMP0135,Employee_135,43,Male,PhD,Sales,Lead,Hamburg,2022-02-23,,Active,94800,17,LinkedIn,Below Average,18,43,2.9
+EMP0136,Employee_136,23,Male,Diploma,Finance,Manager,Munich,2023-01-15,,Terminated,92700,2,Recruiter,Average,20,79,3.3
+EMP0137,Employee_137,37,Female,Master,Operations,Manager,Frankfurt,2020-02-18,,Active,104400,2,Indeed,Excellent,6,7,2.8
+EMP0138,Employee_138,25,Female,Diploma,Finance,Manager,Hamburg,2023-03-01,,Active,104400,2,Indeed,Good,17,46,5.0
+EMP0139,Employee_139,38,Male,PhD,Finance,Manager,Hamburg,2019-12-27,2024-02-01,Terminated,93600,16,Indeed,Good,7,40,3.2
+EMP0140,Employee_140,40,Male,PhD,Operations,Lead,Berlin,2019-12-16,2021-12-25,Resigned,81300,4,Referral,Below Average,12,49,4.8
+EMP0141,Employee_141,52,Female,Master,Operations,Junior,Berlin,2020-06-24,2022-05-30,Terminated,38500,7,Recruiter,Good,17,39,4.7
+EMP0142,Employee_142,36,Female,Bachelor,Operations,Manager,Munich,2018-04-14,2021-10-02,Terminated,91000,11,LinkedIn,Good,1,17,2.7
+EMP0143,Employee_143,52,Male,Master,HR,Mid,Stuttgart,2023-03-30,,Active,51100,7,LinkedIn,Average,10,41,3.6
+EMP0144,Employee_144,47,Male,PhD,Sales,Lead,Hamburg,2018-12-27,,Active,92600,16,Company Website,Good,9,9,1.0
+EMP0145,Employee_145,54,Female,PhD,Operations,Manager,Munich,2022-12-27,,Active,98100,15,LinkedIn,Average,6,19,2.3
+EMP0146,Employee_146,33,Female,Bachelor,Operations,Senior,Munich,2021-03-08,2022-10-04,Terminated,75800,10,Indeed,Below Average,13,70,2.3
+EMP0147,Employee_147,46,Male,PhD,Finance,Senior,Hamburg,2018-01-14,,Active,78700,8,Indeed,Below Average,8,47,2.2
+EMP0148,Employee_148,54,Male,Master,Engineering,Junior,Munich,2018-11-24,,Active,39700,10,Company Website,Excellent,20,42,2.5
+EMP0149,Employee_149,48,Male,Diploma,Sales,Lead,Stuttgart,2021-05-25,,Active,90000,18,Referral,Below Average,17,32,4.0
+EMP0150,Employee_150,34,Female,Bachelor,Engineering,Manager,Munich,2022-08-25,2025-12-22,Resigned,87800,10,Recruiter,Good,5,46,4.4
+EMP0151,Employee_151,51,Female,PhD,Finance,Junior,Berlin,2020-07-01,,Active,44000,5,Company Website,Below Average,14,77,1.2
+EMP0152,Employee_152,24,Male,Diploma,Marketing,Junior,Berlin,2021-03-30,,Active,42500,2,Referral,Average,2,74,5.0
+EMP0153,Employee_153,45,Male,PhD,Finance,Mid,Berlin,2022-04-18,2025-02-21,Terminated,56500,13,Indeed,Below Average,12,53,1.3
+EMP0154,Employee_154,22,Female,Master,HR,Lead,Munich,2022-01-30,,Active,85600,1,Company Website,Average,14,74,2.7
+EMP0155,Employee_155,24,Male,Bachelor,Marketing,Mid,Stuttgart,2023-04-04,2024-05-19,Terminated,49100,3,LinkedIn,Below Average,19,7,2.0
+EMP0156,Employee_156,37,Male,Master,Finance,Manager,Stuttgart,2022-11-22,,Active,101800,2,Referral,Below Average,14,34,3.2
+EMP0157,Employee_157,37,Female,Bachelor,Sales,Manager,Stuttgart,2021-05-09,2023-08-23,Terminated,93000,10,Recruiter,Good,16,33,2.7
+EMP0158,Employee_158,25,Female,Master,Operations,Mid,Hamburg,2020-05-24,2023-09-01,Resigned,54400,3,Company Website,Below Average,16,45,3.8
+EMP0159,Employee_159,41,Female,Master,Sales,Manager,Frankfurt,2022-10-06,,Active,96800,5,Indeed,Below Average,1,76,2.7
+EMP0160,Employee_160,45,Male,Bachelor,Marketing,Mid,Munich,2018-06-11,,Active,50000,3,Recruiter,Good,1,39,2.5
+EMP0161,Employee_161,41,Female,Master,Operations,Manager,Stuttgart,2019-03-04,,Active,90400,1,Indeed,Good,6,20,4.0
+EMP0162,Employee_162,46,Female,Diploma,Finance,Mid,Berlin,2022-05-08,,Active,53300,15,Company Website,Average,9,38,2.4
+EMP0163,Employee_163,48,Female,PhD,Customer Support,Senior,Munich,2020-01-30,,Active,78300,2,Indeed,Good,4,7,2.0
+EMP0164,Employee_164,53,Female,Diploma,Marketing,Mid,Munich,2022-09-03,,Active,50700,18,Referral,Average,8,67,4.9
+EMP0165,Employee_165,25,Male,Bachelor,Sales,Mid,Munich,2020-09-27,,Active,55800,1,LinkedIn,Excellent,1,5,2.6
+EMP0166,Employee_166,52,Male,Bachelor,Sales,Manager,Stuttgart,2018-05-04,2022-05-29,Resigned,96400,16,Referral,Excellent,0,73,3.2
+EMP0167,Employee_167,33,Female,PhD,HR,Senior,Hamburg,2022-07-24,2025-06-19,Terminated,60300,2,Company Website,Excellent,16,24,2.0
+EMP0168,Employee_168,36,Female,Diploma,Engineering,Senior,Stuttgart,2020-07-29,2022-06-07,Resigned,79200,5,Company Website,Excellent,20,9,1.4
+EMP0169,Employee_169,49,Female,PhD,Engineering,Junior,Berlin,2018-06-19,,Active,42000,11,LinkedIn,Excellent,16,10,1.9
+EMP0170,Employee_170,33,Female,Bachelor,Operations,Senior,Hamburg,2021-02-28,2021-11-02,Terminated,78000,6,Indeed,Excellent,6,80,1.6
+EMP0171,Employee_171,43,Female,Bachelor,HR,Mid,Berlin,2022-10-06,,Active,53500,13,Company Website,Good,2,69,4.0
+EMP0172,Employee_172,47,Female,Diploma,Sales,Junior,Munich,2022-04-24,2026-02-21,Resigned,38400,11,Referral,Excellent,20,39,4.1
+EMP0173,Employee_173,27,Male,Diploma,HR,Lead,Munich,2021-10-24,2024-06-08,Resigned,83600,5,Company Website,Average,7,14,1.3
+EMP0174,Employee_174,50,Female,Diploma,Marketing,Senior,Stuttgart,2018-01-11,,Active,62100,12,Recruiter,Average,3,21,1.3
+EMP0175,Employee_175,27,Female,Bachelor,HR,Lead,Stuttgart,2018-07-03,,Active,77100,5,Indeed,Average,12,6,2.2
+EMP0176,Employee_176,30,Male,Diploma,HR,Manager,Hamburg,2020-02-19,,Active,89200,5,Company Website,Average,8,68,1.6
+EMP0177,Employee_177,37,Male,Diploma,Marketing,Lead,Hamburg,2020-01-10,,Active,90700,16,Recruiter,Good,14,18,1.5
+EMP0178,Employee_178,30,Male,Diploma,Finance,Senior,Hamburg,2020-05-31,2024-03-28,Terminated,68800,5,Referral,Average,19,30,2.9
+EMP0179,Employee_179,42,Male,Master,Operations,Lead,Stuttgart,2022-05-21,,Active,94400,13,LinkedIn,Average,12,51,1.5
+EMP0180,Employee_180,40,Male,PhD,Operations,Lead,Munich,2019-03-06,,Active,93900,3,Company Website,Below Average,15,22,3.5
+EMP0181,Employee_181,47,Female,Bachelor,Customer Support,Lead,Berlin,2021-05-09,,Active,76500,18,Indeed,Below Average,17,9,4.2
+EMP0182,Employee_182,47,Male,Master,Operations,Senior,Frankfurt,2021-06-08,,Active,63300,11,Referral,Below Average,3,6,1.4
+EMP0183,Employee_183,31,Male,Bachelor,Finance,Lead,Munich,2021-04-20,2024-08-06,Terminated,90400,6,Referral,Excellent,15,18,2.2
+EMP0184,Employee_184,44,Female,Bachelor,Marketing,Senior,Berlin,2019-02-28,2022-05-12,Resigned,69100,16,LinkedIn,Excellent,14,62,2.3
+EMP0185,Employee_185,37,Female,Master,Customer Support,Senior,Frankfurt,2021-10-18,,Active,73000,6,Indeed,Good,10,76,2.7
+EMP0186,Employee_186,50,Male,PhD,Sales,Lead,Berlin,2022-02-19,2023-09-26,Resigned,82900,19,Recruiter,Below Average,12,5,3.8
+EMP0187,Employee_187,51,Female,Diploma,Engineering,Manager,Stuttgart,2019-10-30,,Active,89700,4,Company Website,Average,15,72,4.9
+EMP0188,Employee_188,33,Male,PhD,HR,Junior,Berlin,2022-09-28,,Active,38500,11,Indeed,Average,19,80,1.3
+EMP0189,Employee_189,54,Female,Master,Marketing,Junior,Frankfurt,2021-11-21,,Active,36800,13,Recruiter,Below Average,19,22,3.3
+EMP0190,Employee_190,30,Male,Diploma,Operations,Mid,Munich,2020-09-29,,Active,53300,3,Indeed,Average,14,11,4.5
+EMP0191,Employee_191,48,Male,Master,Customer Support,Lead,Hamburg,2020-11-01,2024-02-07,Terminated,94300,16,LinkedIn,Below Average,14,67,1.7
+EMP0192,Employee_192,53,Female,Bachelor,Marketing,Mid,Frankfurt,2018-12-11,,Active,53100,18,Recruiter,Excellent,18,19,2.1
+EMP0193,Employee_193,41,Male,Diploma,Sales,Lead,Berlin,2022-08-27,2024-07-13,Terminated,77000,2,Indeed,Below Average,8,49,4.4
+EMP0194,Employee_194,49,Female,PhD,Sales,Manager,Stuttgart,2022-10-30,,Terminated,102200,6,Recruiter,Good,6,31,4.2
+EMP0195,Employee_195,39,Female,Master,Sales,Senior,Munich,2019-08-23,,Active,79600,17,Indeed,Excellent,4,57,4.7
+EMP0196,Employee_196,53,Male,Bachelor,Sales,Senior,Frankfurt,2022-04-09,2024-12-18,Terminated,76600,5,Recruiter,Average,20,58,2.5
+EMP0197,Employee_197,51,Male,Diploma,Operations,Senior,Hamburg,2022-12-02,,Active,73900,16,LinkedIn,Average,18,5,4.5
+EMP0198,Employee_198,35,Male,Diploma,Customer Support,Manager,Hamburg,2023-06-06,,Active,94900,8,LinkedIn,Average,10,41,2.4
+EMP0199,Employee_199,23,Female,Master,Engineering,Junior,Munich,2022-09-10,,Active,41300,1,Referral,Good,14,63,1.0
+EMP0200,Employee_200,27,Male,Diploma,Sales,Senior,Berlin,2020-01-09,,Active,61900,3,LinkedIn,Good,1,55,3.5
